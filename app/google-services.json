@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "505395642987",
+    "project_id": "t3loginfirebase",
+    "storage_bucket": "t3loginfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505395642987:android:215f5cba92918f05b7e72e",
+        "android_client_info": {
+          "package_name": "com.example.t3loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505395642987-cknfkjqbqat4vq8asmqu4bb4ruh1q1nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1_Gtf66HgNbZqYliBp94PCWtcaHMCFAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505395642987-cknfkjqbqat4vq8asmqu4bb4ruh1q1nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
